@@ -1,0 +1,5 @@
+{
+    "editor.fontSize": 18,
+    "cmake.sourceDirectory": "${workspaceFolder}/flutter_project/windows/runner"
+    
+}
